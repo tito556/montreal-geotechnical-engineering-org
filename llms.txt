@@ -13,6 +13,7 @@
 - [Flexible Pavement](https://montreal.geotechnical-engineering.org/flexible-pavement/)
 - [Footings](https://montreal.geotechnical-engineering.org/footings/)
 - [Foundations](https://montreal.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://montreal.geotechnical-engineering.org/geophysics/)
 - [Grain Size](https://montreal.geotechnical-engineering.org/grain-size/)
 - [Ground Improvement](https://montreal.geotechnical-engineering.org/ground-improvement/)
 - [Grouting](https://montreal.geotechnical-engineering.org/grouting/)
